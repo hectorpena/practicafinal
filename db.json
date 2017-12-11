@@ -4,13 +4,13 @@
       "id": 1,
       "fullName": "Hector Pena",
       "username": "admin",
-      "password": "asdf"
+      "password": "admin"
     },
     {
       "id": 2,
       "fullName": "Diego Avila",
       "username": "diego",
-      "password": "asdf"
+      "password": "diego"
     }
   ],
   "users": [
